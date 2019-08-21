@@ -1,0 +1,9 @@
+*.o
+spring
+lander
+CMakeLists.txt
+cmake-build-debug/
+venv/
+.idea/
+.DS_Store
+*.pyc
